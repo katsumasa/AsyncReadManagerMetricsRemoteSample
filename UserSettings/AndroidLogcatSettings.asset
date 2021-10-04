@@ -1,0 +1,118 @@
+{
+    "m_SelectedDeviceId": "99061FFBA004AE",
+    "m_SelectedPackage": {
+        "deviceId": "99061FFBA004AE",
+        "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+        "processId": 11112,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 2798,
+            "exited": false
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 754,
+            "exited": true
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 7591,
+            "exited": true
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 7856,
+            "exited": true
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 8125,
+            "exited": true
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 8929,
+            "exited": true
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 10438,
+            "exited": false
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 11112,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 2
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": [
+        {
+            "Name": "D:/Projects/AsyncReadManagerMetricsRemoteSample/test-0.1-v1.symbols",
+            "Enabled": true
+        }
+    ]
+}
