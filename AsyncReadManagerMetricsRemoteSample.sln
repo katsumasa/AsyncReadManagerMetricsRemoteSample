@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTJ.RemoteConnect", "UTJ.RemoteConnect.csproj", "{BFE778F1-8AF1-C41E-901F-74F80D58BA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{889ECAE0-97DB-7507-FF1D-FCDCB05F0E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTJ.AsyncReadManagerMetricsRemote", "UTJ.AsyncReadManagerMetricsRemote.csproj", "{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTJ.AsyncReadManagerMetricsRemote.Editor", "UTJ.AsyncReadManagerMetricsRemote.Editor.csproj", "{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTJ.EditorGUILayoutExt", "UTJ.EditorGUILayoutExt.csproj", "{D6747056-3FCE-B2D3-D521-4E76D03F61E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTJ.RemoteConnection.Editor", "UTJ.RemoteConnection.Editor.csproj", "{BA666936-551F-0EF3-3A6B-A7D88E19D965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{F281BEFF-A9B9-7817-4422-5B498F5E6D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE778F1-8AF1-C41E-901F-74F80D58BA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE778F1-8AF1-C41E-901F-74F80D58BA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE778F1-8AF1-C41E-901F-74F80D58BA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE778F1-8AF1-C41E-901F-74F80D58BA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889ECAE0-97DB-7507-FF1D-FCDCB05F0E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889ECAE0-97DB-7507-FF1D-FCDCB05F0E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889ECAE0-97DB-7507-FF1D-FCDCB05F0E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889ECAE0-97DB-7507-FF1D-FCDCB05F0E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6747056-3FCE-B2D3-D521-4E76D03F61E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6747056-3FCE-B2D3-D521-4E76D03F61E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6747056-3FCE-B2D3-D521-4E76D03F61E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6747056-3FCE-B2D3-D521-4E76D03F61E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA666936-551F-0EF3-3A6B-A7D88E19D965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA666936-551F-0EF3-3A6B-A7D88E19D965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA666936-551F-0EF3-3A6B-A7D88E19D965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA666936-551F-0EF3-3A6B-A7D88E19D965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F281BEFF-A9B9-7817-4422-5B498F5E6D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F281BEFF-A9B9-7817-4422-5B498F5E6D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F281BEFF-A9B9-7817-4422-5B498F5E6D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F281BEFF-A9B9-7817-4422-5B498F5E6D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
