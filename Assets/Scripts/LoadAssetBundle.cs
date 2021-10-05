@@ -9,19 +9,19 @@ public class LoadAssetBundle : MonoBehaviour
     [SerializeField] string[] assetNames;
     int index;
     int wait;
-
+    bool isDone;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        isDone = true;
     }
 
     private void Update()
     {
         wait--;
         if(wait <= 0)
-        {
+        {            
             wait = Random.Range(1, 5);
             var ab = AB.Load(abName);
             if (ab != null)
@@ -30,15 +30,32 @@ public class LoadAssetBundle : MonoBehaviour
                 if(index >= assetNames.Length)
                 {
                     index = 0;
-                }
+                }                                         
                 var assetName = assetNames[index];                               
                 spriteRenderer.sprite = ab.LoadAsset<Sprite>(assetName);
                 ab.Unload(false);
-                Resources.UnloadUnusedAssets();
-                System.GC.Collect();
+
+                UnLoadUnusedAssets();                
             }
         }
     }
+
+
+    void Done(AsyncOperation asyncOperation)
+    {
+        isDone = true;
+    }
+
+    void UnLoadUnusedAssets()
+    {
+        if (isDone)
+        {
+            isDone = false;
+            var asyncOperation = Resources.UnloadUnusedAssets();
+            asyncOperation.completed += Done;
+        }
+    }
+
 
 
 }
