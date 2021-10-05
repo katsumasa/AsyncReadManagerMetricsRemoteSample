@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3371029216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb255879d0c1d5a5bd6635eb639feed1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Graphics/Textures/onepiece01_luffy2.png
+- Assets/Graphics/Textures/onepiece02_zoro.png
+- Assets/Graphics/Textures/onepiece20_santaisyou1_kizaru_borsalino.png
+- Assets/Graphics/Textures/onepiece20_santaisyou.png
+- Assets/Graphics/Textures/onepiece03_nami.png
+- Assets/Graphics/Textures/onepiece19_kurohige_teach.png
+- Assets/Graphics/Textures/onepiece01_luffy.png
+- Assets/Graphics/Textures/onepiece16_moria.png
+- Assets/Graphics/Textures/onepiece09_brook.png
+- Assets/Graphics/Textures/onepiece12_buggy.png
+- Assets/Graphics/Textures/onepiece04_usopp_sogeking.png
+- Assets/Graphics/Textures/onepiece20_santaisyou3_akainu_sakazuki.png
+- Assets/Graphics/Textures/onepiece05_sanji.png
+- Assets/Graphics/Textures/onepiece15_lucci.png
+- Assets/Graphics/Textures/onepiece11_arlong.png
+- Assets/Graphics/Textures/onepiece07_robin.png
+- Assets/Graphics/Textures/onepiece10_jinbe.png
+- Assets/Graphics/Textures/onepiece06_chopper.png
+- Assets/Graphics/Textures/onepiece14_enel.png
+- Assets/Graphics/Textures/onepiece08_franky.png
+- Assets/Graphics/Textures/onepiece02_zoro_bandana.png
+- Assets/Graphics/Textures/onepiece18_linlin_kaido.png
+- Assets/Graphics/Textures/onepiece13_crocodile.png
+- Assets/Graphics/Textures/onepiece17_doflamingo.png
+- Assets/Graphics/Textures/onepiece20_santaisyou2_aokiji_kuzan.png
+Dependencies: []

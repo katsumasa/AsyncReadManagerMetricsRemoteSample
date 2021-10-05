@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "99061FFBA004AE",
         "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
-        "processId": 29423,
+        "processId": 6930,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -60,6 +60,24 @@
             "deviceId": "99061FFBA004AE",
             "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
             "processId": 29423,
+            "exited": false
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 5425,
+            "exited": false
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 6699,
+            "exited": false
+        },
+        {
+            "deviceId": "99061FFBA004AE",
+            "name": "com.UTJ.AsyncReadManagerMetricsRemoteSample",
+            "processId": 6930,
             "exited": false
         }
     ],
