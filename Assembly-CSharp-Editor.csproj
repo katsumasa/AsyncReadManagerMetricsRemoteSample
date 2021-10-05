@@ -711,21 +711,21 @@
       <Project>{889ECAE0-97DB-7507-FF1D-FCDCB05F0E16}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="UTJ.AsyncReadManagerMetricsRemote.Editor.csproj">
-      <Project>{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}</Project>
-      <Name>UTJ.AsyncReadManagerMetricsRemote.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UTJ.AsyncReadManagerMetricsRemote.csproj">
-      <Project>{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}</Project>
-      <Name>UTJ.AsyncReadManagerMetricsRemote</Name>
-    </ProjectReference>
     <ProjectReference Include="UTJ.EditorGUILayoutExt.csproj">
       <Project>{D6747056-3FCE-B2D3-D521-4E76D03F61E2}</Project>
       <Name>UTJ.EditorGUILayoutExt</Name>
     </ProjectReference>
+    <ProjectReference Include="UTJ.AsyncReadManagerMetricsRemote.Editor.csproj">
+      <Project>{B68FD4B9-CD83-E2A2-F734-BA23C5884FFC}</Project>
+      <Name>UTJ.AsyncReadManagerMetricsRemote.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="UTJ.RemoteConnection.Editor.csproj">
       <Project>{BA666936-551F-0EF3-3A6B-A7D88E19D965}</Project>
       <Name>UTJ.RemoteConnection.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UTJ.AsyncReadManagerMetricsRemote.csproj">
+      <Project>{FF8A7E30-24FF-2D70-D5FE-7A8CE251C179}</Project>
+      <Name>UTJ.AsyncReadManagerMetricsRemote</Name>
     </ProjectReference>
     <ProjectReference Include="UTJ.RemoteConnect.csproj">
       <Project>{BFE778F1-8AF1-C41E-901F-74F80D58BA27}</Project>
