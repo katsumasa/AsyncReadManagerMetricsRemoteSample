@@ -18,6 +18,7 @@ git submodule update --init --recursive
 
 ### 使い方
 
-`AssetBundle > Build`でAssetBundleのビルドを行います。
+- `AssetBundle > Build`でAssetBundleのビルドを行います。
+- Development Buildが有効な状態でビルドを行ってください。
 
 
