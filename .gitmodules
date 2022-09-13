@@ -7,3 +7,6 @@
 [submodule "Assets/UTJ/RemoteConnect"]
 	path = Assets/UTJ/RemoteConnect
 	url = https://github.com/katsumasa/RemoteConnect.git
+[submodule "IMGUIExtentions"]
+	path = IMGUIExtentions
+	url = https://github.com/katsumasa/IMGUIExtentions.git
