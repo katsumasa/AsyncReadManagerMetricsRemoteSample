@@ -1,12 +1,9 @@
 [submodule "Assets/UTJ/AsyncReadManagerMetricsRemote"]
 	path = Assets/UTJ/AsyncReadManagerMetricsRemote
 	url = https://github.com/katsumasa/AsyncReadManagerMetricsRemote.git
-[submodule "Assets/UTJ/EditorGUILayoutExt"]
-	path = Assets/UTJ/EditorGUILayoutExt
-	url = https://github.com/katsumasa/EditorGUILayoutExt.git
 [submodule "Assets/UTJ/RemoteConnect"]
 	path = Assets/UTJ/RemoteConnect
 	url = https://github.com/katsumasa/RemoteConnect.git
-[submodule "IMGUIExtentions"]
-	path = IMGUIExtentions
+[submodule "Assets/UTJ/IMGUIExtentions"]
+	path = Assets/UTJ/IMGUIExtentions
 	url = https://github.com/katsumasa/IMGUIExtentions.git
